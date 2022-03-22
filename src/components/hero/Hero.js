@@ -13,7 +13,7 @@ export const Hero = () => {
         <Col md="7" className="ml-3 mb-3">
           <div >
             <div className="mb-3">Hi I'm Sulav Adhikari</div>
-            <h2>👩‍💻Full-Stack MERN Developer!</h2>
+            <h2>👩‍💻Full-Stack MERN Developer !!!</h2>
 
             <p className="mt-5 mb-2">
               I am passionate software engineer who loves to solve problem through coding

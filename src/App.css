@@ -1,0 +1,33 @@
+:root {
+	--primary: #28536b;
+	--secondary: #c2948a;
+}
+.wrapper{
+    min-height:100vh;
+    background: rgb(39, 34, 34);
+    color:rgb(175, 196, 60);
+	position:relative;
+}
+
+.section-title {
+	font-size: 3rem;
+	border-bottom: 5px solid var(--primary);
+	width: 250px;
+	margin: 5rem auto;
+	text-align: center;
+}
+
+.skill-list {
+	
+	font-size: 2rem;
+
+}
+
+.skill-list i {
+	font-size: 6rem;
+
+}
+.project-section {
+	background: rgba(112, 122, 23, 0.568);
+}
+
